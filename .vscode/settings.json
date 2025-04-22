@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "backend/src/main/java/com/example/backend"
+    ],
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.configuration.updateBuildConfiguration": "disabled"
+}
